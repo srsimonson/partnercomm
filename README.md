@@ -27,3 +27,5 @@ Project contains default Vue.JS install of vue@3.4.21.
 - `cd /partnercomm-code-challenge/partnercomm-poll`
 - `npm install`
 - `npm run serve`
+
+![DEMO Animation](/partnercomm_poll.gif)
