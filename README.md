@@ -11,7 +11,7 @@
 ### Etc.
 [x] feel free to expand upon it if you would like. 
 [x] don't feel the need to hook up users or anything overly complex.
-[] push the code up to GitHub (or somewhere similar) ahead of time and share a link
+[x] push the code up to GitHub (or somewhere similar) ahead of time and share a link
 
 ## GETTING STARTED
 
@@ -23,6 +23,6 @@ Project contains default WordPress 6.4.3 download, no changes except for the add
 
 ### Vue3 frontend
 Project contains default Vue.JS install of vue@3.4.21.
-`cd /partnercomm-code-challenge/partnercomm-poll`
-`npm install`
-`npm run serve`
+- `cd /partnercomm-code-challenge/partnercomm-poll`
+- `npm install`
+- `npm run serve`
