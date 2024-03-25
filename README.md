@@ -20,6 +20,7 @@ Project contains default WordPress 6.4.3 download, no changes except for the add
 - /partnercomm-code-challenge/wordpress/wp-content/plugins/partnercomm-rest-api/partnercomm-rest-api.php
 - `cd /partnercomm-code-challenge/wordpress`
 - `php -S localhost:8000`
+- `Mysql.server start` (you will need to have a mysql db and go through the first-time setup of a WP project at localhost:8000/wp-admin)
 
 ### Vue3 frontend
 Project contains default Vue.JS install of vue@3.4.21.
