@@ -2,16 +2,16 @@
 
 ## REQUIREMENTS:
 ### A WordPress REST API endpoint 
-[x] a small plugin that serves poll content. a poll title and a few answers.
+- [x] a small plugin that serves poll content. a poll title and a few answers.
 
 ### Vue.js frontend 
-[x] displays the poll and allows users to select their answer
-[x] shows a count of votes for each answer.
+- [x] displays the poll and allows users to select their answer
+- [x] shows a count of votes for each answer.
 
 ### Etc.
-[x] feel free to expand upon it if you would like. 
-[x] don't feel the need to hook up users or anything overly complex.
-[x] push the code up to GitHub (or somewhere similar) ahead of time and share a link
+- [x] feel free to expand upon it if you would like. 
+- [x] don't feel the need to hook up users or anything overly complex.
+- [x] push the code up to GitHub (or somewhere similar) ahead of time and share a link
 
 ## GETTING STARTED
 
