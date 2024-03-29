@@ -2,7 +2,6 @@
     <div class="response-card counter-container">
         <p>{{ response }}</p>
         <button @click="voteCounter">vote</button>
-        <!-- <p>Votes: {{ counter }}</p> -->
         <span class="counter" :class="{ animate: animateCounter }">{{
             counter
         }}</span>
